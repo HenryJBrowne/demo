@@ -9,7 +9,7 @@ import javax.persistence.Table;
 import java.util.*;
 
 /*
- * This model class generates the Customer database and allows for the creation new customer objects / records
+ * This model class generates the Customer database and allows for the creation of new customer objects / records
  * 
  * @Author: Henry Browne
  */
